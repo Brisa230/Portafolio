@@ -1,3 +1,36 @@
-body{
-    background-color: rgb(153, 118, 185);
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
 }
+
+body {
+    background-image: url('https://img.freepik.com/vector-gratis/fondo-cafe-frances-vector-ilustracion-estilo-vida-mujeres_53876-156596.jpg?w=900&t=st=1722874078~exp=1722874678~hmac=c223fd0f27c093b1d7b5c51d65f2b2305b2f4b2b7b717695cbdae200a8be1659'); /* URL de la imagen */
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+
+h1 {
+    color: rgb(228, 153, 218);
+    text-align: left; 
+    font-size: 5em; 
+    margin-bottom: 900px; 
+}
+
+p {
+    color: rgb(0, 0, 0);
+    text-align: left; 
+    font-size: 1.5em; 
+}
+
+div {
+    width: 800px;
+    height: auto; 
+    padding: 10px; 
+    border: 10px solid rgba(250, 246, 246, 0); 
+}
+}
+
