@@ -5,7 +5,7 @@ html, body {
 }
 
 body {
-    background-image: url('https://img.freepik.com/vector-gratis/fondo-cafe-frances-vector-ilustracion-estilo-vida-mujeres_53876-156596.jpg?w=900&t=st=1722874078~exp=1722874678~hmac=c223fd0f27c093b1d7b5c51d65f2b2305b2f4b2b7b717695cbdae200a8be1659'); /* URL de la imagen */
+    background-image: url("https://wallpapergod.com/images/hd/purple-aesthetic-1280X640-wallpaper-67jxxuz63gaxpq31.jpeg");
     background-size: cover; 
     background-position: center; 
     background-repeat: no-repeat; 
@@ -15,9 +15,9 @@ body {
 
 h1 {
     color: rgb(228, 153, 218);
-    text-align: left; 
+    text-align: center; 
     font-size: 5em; 
-    margin-bottom: 900px; 
+    margin-bottom: 600px; 
 }
 
 p {
@@ -33,4 +33,3 @@ div {
     border: 10px solid rgba(250, 246, 246, 0); 
 }
 }
-
